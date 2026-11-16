@@ -1,0 +1,1 @@
+console.log("Velvet Smoke App initialized successfully.");
